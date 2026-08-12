@@ -6,30 +6,48 @@
 </p>
 
 <p align="center">
-  <a href="https://oryzz.com"><img src="https://img.shields.io/badge/oryzz.com-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Website"/></a>
-  <a href="https://oryzz.com/m/david"><img src="https://img.shields.io/badge/Portfolio-1f6feb?style=for-the-badge&logo=readdotcv&logoColor=white" alt="Portfolio"/></a>
-  <a href="mailto:juandmg020407@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="https://oryzz.com/m/david"><img src="https://img.shields.io/badge/Portfolio_y_redes-1f6feb?style=for-the-badge&logo=readdotcv&logoColor=white" alt="Portfolio y redes"/></a>
+  <a href="https://oryzz.com"><img src="https://img.shields.io/badge/oryzz.com-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="oryzz.com"/></a>
+  <a href="https://24-7vip.com"><img src="https://img.shields.io/badge/24--7vip.com-1a1a1a?style=for-the-badge&logo=googlechrome&logoColor=white" alt="24-7vip.com"/></a>
+  <a href="mailto:david@oryzz.com"><img src="https://img.shields.io/badge/david@oryzz.com-D14836?style=for-the-badge&logo=maildotru&logoColor=white" alt="Email"/></a>
 </p>
 
 ---
 
 ## Sobre mí
 
-Desarrollador y científico de datos entre Colombia y España. Me interesa el punto exacto en el que un modelo deja de ser un notebook y se convierte en algo que alguien usa de verdad: imagen médica, simulación, herramientas que quitan trabajo a quien las necesita.
+Desarrollador y científico de datos entre Colombia y España. Me interesa el punto exacto en el que un modelo deja de ser un notebook y se convierte en algo que alguien usa de verdad.
 
-- Trabajo en **desidentificación automática de imagen médica** (YOLO + OCR) e **interoperabilidad DICOM** entre hospitales.
-- Construyo **montecast**, un motor de forecasting del Mundial 2026 con 50.000 simulaciones Monte Carlo.
-- Building in public en [oryzz.com](https://oryzz.com).
-- Objetivo de este año: llevar dos proyectos propios a usuarios reales, no solo a un repositorio.
+- Trabajo en **healthtech**: imagen médica, interoperabilidad entre hospitales y privacidad de datos clínicos.
+- **Tercer puesto a nivel nacional en España** con [OpenRoute](https://github.com/ComunidadIA-OS/OpenRoute), IA open source para optimización de rutas de reparto.
+- Construí y mantengo [24-7vip.com](https://24-7vip.com) y [oryzz.com](https://oryzz.com).
+- Portfolio y todas mis redes en un solo sitio: **[oryzz.com/m/david](https://oryzz.com/m/david)**
 
 ## Proyectos destacados
 
+### Healthtech
+
 | Proyecto | Qué es | Stack |
 | --- | --- | --- |
-| [**montecast**](https://github.com/juandmg020407/montecast) | Ensemble Dixon-Coles × Elo sobre 150 años de fútbol: 50.000 torneos simulados y visualización interactiva del Mundial 2026. | Python · Next.js |
-| [**personal-website**](https://github.com/juandmg020407/personal-website) | Portfolio planteado como un cuaderno de laboratorio ejecutable, con sistema de diseño hecho a mano. | Next.js 16 · TypeScript |
+| [**TwinCardiaco**](https://github.com/pandafter/TwinCardiaco) | Gemelo digital cardiaco en tiempo real: portal clínico, ECG fisiológico y junta médica virtual. | TypeScript |
+| **IDONIA** <sub>(privado)</sub> | Interoperabilidad y humanización de imagen médica entre hospitales del norte de España. | TypeScript |
+
+### Machine Learning
+
+| Proyecto | Qué es | Stack |
+| --- | --- | --- |
+| [**OpenRoute**](https://github.com/ComunidadIA-OS/OpenRoute) | IA open source para optimizar rutas de reparto en pymes: geocodificación, clustering, planificación multi-vehículo y explicaciones en lenguaje natural. **Tercer puesto a nivel nacional en España.** | TypeScript |
+| [**montecast**](https://github.com/juandmg020407/montecast) | Ensemble Dixon-Coles × Elo sobre 150 años de fútbol: 50.000 torneos Monte Carlo para prever el Mundial 2026. | Python |
+
+### Web
+
+| Proyecto | Qué es | Stack |
+| --- | --- | --- |
+| [**24-7vip.com**](https://24-7vip.com) | Sitio de transporte ejecutivo 24/7: diseño y desarrollo completos. | JavaScript |
+| [**oryzz.com**](https://oryzz.com) | Mi estudio y la base de todo lo que construyo en público. | Next.js |
 | [**pomodoryzz**](https://github.com/juandmg020407/pomodoryzz) | Pomodoro donde el progreso es una pincelada de tinta: tareas anidadas, rachas y audio sintetizado. Sin cuenta, sin servidor, sin tracking. | TypeScript |
-| [**OpenRoute**](https://github.com/ComunidadIA-OS/OpenRoute) | IA open source para optimizar rutas de reparto en pymes: geocodificación, clustering, planificación multi-vehículo y explicaciones en lenguaje natural. | TypeScript |
+
+**Portfolio:** [oryzz.com/m/david](https://oryzz.com/m/david)
 
 ## Stack
 
@@ -54,9 +72,9 @@ Primero el problema, después el modelo. Prefiero un baseline honesto y medible 
 
 ## Hablemos
 
-Estoy abierto a colaboraciones en IA aplicada a salud, proyectos open source y oportunidades donde pueda construir producto de principio a fin.
+Estoy abierto a colaboraciones en healthtech, IA aplicada y open source, y a oportunidades donde pueda construir producto de principio a fin.
 
-- Web: [oryzz.com](https://oryzz.com)
-- Contacto: [juandmg020407@gmail.com](mailto:juandmg020407@gmail.com)
+- Portfolio y redes: [oryzz.com/m/david](https://oryzz.com/m/david)
+- Contacto: [david@oryzz.com](mailto:david@oryzz.com)
 
-<sub>Si has llegado hasta aquí, mira <a href="https://github.com/juandmg020407/montecast">montecast</a>. Es el que más me ha divertido.</sub>
+<sub>Si has llegado hasta aquí, mira <a href="https://github.com/ComunidadIA-OS/OpenRoute">OpenRoute</a>: terceros a nivel nacional en España.</sub>
