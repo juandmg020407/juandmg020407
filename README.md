@@ -18,8 +18,9 @@
 
 Desarrollador y científico de datos entre Colombia y España. Me interesa el punto exacto en el que un modelo deja de ser un notebook y se convierte en algo que alguien usa de verdad.
 
-- Trabajo en **healthtech**: imagen médica, interoperabilidad entre hospitales y privacidad de datos clínicos.
+- Desarrollo **soluciones de IA para problemas reales** en sectores muy distintos: logística, salud, fintech, retail y entretenimiento. El sector cambia, el método no.
 - **Tercer puesto a nivel nacional en España** con [OpenRoute](https://github.com/ComunidadIA-OS/OpenRoute), IA open source para optimización de rutas de reparto.
+- Los hackathons son mi campo de pruebas: 48 horas, un problema real y algo que funciona al final. Llevo unos cuantos.
 - Construí y mantengo [24-7vip.com](https://24-7vip.com) y [oryzz.com](https://oryzz.com).
 - Portfolio y todas mis redes en un solo sitio: **[oryzz.com/m/david](https://oryzz.com/m/david)**
 
@@ -31,6 +32,7 @@ Desarrollador y científico de datos entre Colombia y España. Me interesa el pu
 | --- | --- | --- |
 | [**TwinCardiaco**](https://github.com/pandafter/TwinCardiaco) | Gemelo digital cardiaco en tiempo real: portal clínico, ECG fisiológico y junta médica virtual. | TypeScript |
 | **IDONIA** <sub>(privado)</sub> | Interoperabilidad y humanización de imagen médica entre hospitales del norte de España. | TypeScript |
+| **desidentificacion-radiografias** <sub>(privado)</sub> | Anonimización automática de información identificable quemada en radiografías: detección con YOLO, borrado y verificación de fugas. | Python |
 
 ### Machine Learning
 
@@ -48,6 +50,19 @@ Desarrollador y científico de datos entre Colombia y España. Me interesa el pu
 | [**pomodoryzz**](https://github.com/juandmg020407/pomodoryzz) | Pomodoro donde el progreso es una pincelada de tinta: tareas anidadas, rachas y audio sintetizado. Sin cuenta, sin servidor, sin tracking. | TypeScript |
 
 **Portfolio:** [oryzz.com/m/david](https://oryzz.com/m/david)
+
+## Hackathons
+
+Donde más aprendo. Un problema real, poco tiempo y la obligación de entregar algo que se pueda abrir en un navegador.
+
+| Proyecto | Qué construí |
+| --- | --- |
+| [**OpenRoute**](https://github.com/ComunidadIA-OS/OpenRoute) | Optimizador de rutas de reparto para pymes, open source y con explicaciones en lenguaje natural. **Tercer puesto a nivel nacional en España.** |
+| [**Chispy**](https://github.com/platanus-build-night/platanus-build-night-26-co-juandmg020407) · <sub>Platanus Build Night 26, Bogotá</sub> | Un agente que toma la base de clientes de una pyme, la enriquece con datos públicos y decide a quién contactar, con qué oferta y por qué canal. Después escribe el mensaje por WhatsApp él mismo. |
+| [**Creasy**](https://github.com/Oryzz-COL/Hackathon-30x-Colsubsidio-Creasy) · <sub>Hackathon 30x Colsubsidio</sub> | Orientación crediticia explicable con señales autorizadas, privacidad por diseño y revisión humana en el bucle. |
+| [**FreeTicket**](https://github.com/juandmg020407/Hackathon-Freeticket) · <sub>Hackathon FreeTicket</sub> | Predicción de aforo real por show cruzando dos plataformas de datos que nunca se habían mirado, entregada como una skill que responde en lenguaje natural. |
+| **IDONIA** <sub>(privado)</sub> | Interoperabilidad de imagen médica entre hospitales del norte de España. |
+| **desidentificacion-radiografias** <sub>(privado)</sub> | Pipeline de anonimización de radiografías con detección YOLO y verificación de fugas. |
 
 ## Stack
 
@@ -72,7 +87,7 @@ Primero el problema, después el modelo. Prefiero un baseline honesto y medible 
 
 ## Hablemos
 
-Estoy abierto a colaboraciones en healthtech, IA aplicada y open source, y a oportunidades donde pueda construir producto de principio a fin.
+Estoy abierto a colaboraciones en IA aplicada, healthtech y open source, y a oportunidades donde pueda construir producto de principio a fin.
 
 - Portfolio y redes: [oryzz.com/m/david](https://oryzz.com/m/david)
 - Contacto: [david@oryzz.com](mailto:david@oryzz.com)
