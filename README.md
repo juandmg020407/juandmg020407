@@ -52,14 +52,6 @@ Desarrollador y científico de datos entre Colombia y España. Me interesa el pu
 
 Primero el problema, después el modelo. Prefiero un baseline honesto y medible antes que una arquitectura elegante que nadie puede validar. Documento lo que hago mientras lo hago, y me gusta que cada proyecto tenga una interfaz que explique por sí sola lo que está pasando por debajo.
 
-## En números
-
-<p>
-  <img src="https://img.shields.io/github/followers/juandmg020407?style=flat-square&label=Seguidores&labelColor=0d1117&color=1f6feb" alt="Seguidores"/>
-  <img src="https://img.shields.io/github/stars/juandmg020407?affiliations=OWNER&style=flat-square&label=Stars&labelColor=0d1117&color=e3b341" alt="Stars"/>
-  <img src="https://img.shields.io/github/last-commit/juandmg020407/montecast?style=flat-square&label=%C3%9Altimo%20commit%20en%20montecast&labelColor=0d1117&color=2ea043" alt="Ultimo commit"/>
-</p>
-
 ## Hablemos
 
 Estoy abierto a colaboraciones en IA aplicada a salud, proyectos open source y oportunidades donde pueda construir producto de principio a fin.
